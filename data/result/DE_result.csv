@@ -1,0 +1,244 @@
+,id,job_title,company,gcp,azure,aws,python,scala,java,c#,spark,airflow,hadoop,snowflake,databrick,sap,mysql,cassandra,postgresql,hive,docker
+0,0,Data Engineer,theScore,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,1
+1,1,Data Engineer Developer,Interac Corp.,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+2,2,Data Engineer - Azure,Tiger Analytics,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,3,Data Engineer (Azure),Tiger Analytics,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+4,4,DATA ENGINEER,Epsilon Solutions Ltd.,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+5,5,Data Engineer,President's Choice Financial,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0
+6,6,Data Engineer,President's Choice Financial,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0
+7,7,Data Engineer,Randstad Canada,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,8,Data Engineer - AWS,Tiger Analytics,0,0,1,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0
+9,9,Data Engineer,CAMH,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,10,Data Engineer,CBI Health,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,11,Data Engineer,eTeam,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,12,"Data Engineer, Data Platforms",Recursion,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+13,13,Database Engineer,theScore,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,14,Data Analyst,ARC Business Solutions Inc.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,15,Data Engineer (Machine Learning),MarkiTech.AI - Experts in Digital Transformation focused on AI / Machine Learning in Health & Telco,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+16,16,Growth Data Engineer,Fivetran,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+17,17,Data Analyst,Momentum Financial Services Group,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,18,Data Analyst,Fairstone Bank,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,19,ETL Data Developer,STACK IT Recruitment Inc.,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,20,Database Engineer - PriceMetrix,McKinsey & Company,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,21,Data Engineer,Tao Digital Solutions,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+22,22,Data Engineer,Keyrus,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,23,Data Engineer,eTeam,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+24,24,Data Engineer,eTeam,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0
+25,25,Backend + Data Engineer (North America) [Remote],Braintrust,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+26,26,"Data Engineer, Tim Hortons, Canada",Restaurant Brands International,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+27,27,Dovenmuehle Mortgage - Data Engineer - Direct Hire [Remote],Braintrust,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+28,28,Data Developer II,TouchBistro,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+29,29,Data Analyst- SQL/Python/PySpark,BeachHead,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+30,30,Intermediate ETL data developer,STACK IT Recruitment Inc.,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+31,31,"Software Engineer, Entry-Level",Laserfiche,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,32,SQL Data Developer,BeachHead,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,33,Mediabrands - Data Analyst & Developer roles (General Application),Mediabrands,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,34,ETL Developer,CIBC,0,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0
+35,35,Quality Engineer - Data Warehousing/ETL,Manulife,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,1,0
+36,36,Software Engineer,Tango,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1
+37,37,Software Engineer,Freshline,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+38,38,Data Analyst – Workday,BeachHead,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,39,Azure Data Engineer - Fulltime,INFINITY SOLUTIONS,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+40,40,Data Analyst-FR,Fairstone Bank,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+41,41,Data Analyst,Robertson & Company Ltd.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,42,Data Analytics Developer,isgSearch,0,1,0,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0
+43,43,Junior Software / DevOps Engineer,Wiley Edge,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+44,44,Data Analyst,Manulife,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,45,GCP Data Engineer/ Scientist,Zortech Solutions,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+46,46,Junior DevOps / Software Engineer,Wiley Edge,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+47,47,Forward-Deployed Data Engineer,Boston Consulting Group (BCG),1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1
+48,48,Microsoft Data Management (Data Engineer),Diverse Lynx,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0
+49,49,AWS Big Data Developer,Emonics LLC,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0
+50,50,Data Ingestion Developer,Zortech Solutions,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+51,51,Data Ingestion Developer,Zortech Solutions,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+52,52,BI Data Engineer,TELUS International,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+53,53,Software Engineer,Texas Instruments,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+54,54,Machine Learning Engineer - North American Integrated Analytics Team,Munich Re,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+55,55,Software Engineer,Thanx,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+56,56,Data Analyst - Real World Data,Clarivate,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,57,Software Engineer,The Ian Martin Group,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+58,58,Data Analyst II,Canadian Tire Corporation,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+59,59,"Junior Software Engineer, Trilogy (Remote) - $60,000/year USD",Crossover,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+60,60,Network Data Engineer,VDart,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+61,61,Data Analyst - Hybrid,"Global Technical Talent, an Inc. 5000 Company",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,62,Cloud Engineer,Boosted.ai,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+63,63,Sr. Data Engineer,Diverse Lynx,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64,64,Data Analyst - Threat Lab,Integral Ad Science,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,65,Data Engineer with AWS Platform,W3Global,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,66,Software / DevOps Engineer,Wiley Edge,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+67,67,Software Engineer II,Toast,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+68,68,Cloud / Big Data Developer,CGI,0,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+69,69,Software Engineer (DE),SS&C Technologies,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+70,70,Data Analyst - Finance,Randstad Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,71,Database Developer,Intrado,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+72,72,Cloud / Big Data Developer,CGI,0,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+73,73,Software Engineer,Kora,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+74,74,Software Engineer,SS&C Technologies,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+75,75,Associate Software Engineer,Cboe Global Markets,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+76,76,Data Analyst - Canadian Tire Corporation,Canadian Tire Corporation,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+77,77,Data Analyst,Arobas Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,78,"Specialist, Data Engineering",Definity,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+79,79,"Data Analyst, Payment Decision Support",President's Choice Financial,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+80,80,Data Analyst,Creative Circle,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+81,81,Software Engineer - Enterprise Data Services (15356),Getty Images,0,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1
+82,82,Cloud Developer - Data Engineering - Canadian Tire Corporation,Canadian Tire Corporation,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+83,83,DevOps Engineer (Database Administration),HOOPP (Healthcare of Ontario Pension Plan),0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+84,84,AWS Big data developer,Diverse Lynx,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+85,85,Data Analyst – Coder - Decision Support - Regular Full-time (230136),Sunnybrook,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,86,Software Engineer II,Mastercard,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+87,87,Software Engineer - Ireland - Freelance [Remote],Braintrust,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+88,88,Full Stack Software Engineer,NerveX Neurotechnologies,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+89,89,Software Engineer,The Ian Martin Group,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,90,"Data Engineering Specialist,",Definity,0,1,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0
+91,91,Software Engineer (Frontend),St. Michael's Hospital,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+92,92,Software Engineer,The Ian Martin Group,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1
+93,93,"Analytics, Associate",Project X Ltd.,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+94,94,"Software Engineer, Performance Engineering (Blockchain)",Ripple,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,95,Data Scientist,Grammarly,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,96,"GCP Data Engineer, Enterprise Architecture",Questrade Financial Group,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+97,97,"Artlogic - Junior Software Engineer, Infrastructure (FTE) - Direct Hire [Remote]",Braintrust,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+98,98,Data Analyst (Cybersecurity),Experis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+99,99,Software Engineer,Rakuten Rewards,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+100,100,"Software Engineer, DevX",Mysten Labs,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+101,101,Software Engineer,Tucows,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+102,102,Software Development Engineer,Westinghouse Electric Company,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+103,103,"Specialist, Data Engineering",Definity,0,1,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0
+104,104,Software Test Automation Engineer,Xenex Enterprises Inc.,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+105,105,Artium - Mid Level Software Engineer I - Direct Hire [Remote],Braintrust,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+106,106,Software Engineer,Enghouse Networks,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+107,107,Software Engineer (FSG),SS&C Technologies,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+108,108,Full Stack Engineer,Corporate Knights,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+109,109,Software Engineer,Bluewaves Mobility Innovation,,,,,,,,,,,,,,,,,,
+110,110,AWS Big Data Developer,Diverse Lynx,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0
+111,111,"Software Engineer, Storage Platform",Recursion,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+112,112,Software Engineer - 2,TekStaff IT Solutions,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+113,113,Data Scientist,Assurance IQ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,114,Software Engineer II,Fivetran,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+115,115,"Data Analyst, Payment Decision Support",Loblaw Companies Limited,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+116,116,"Machine Learning Engineer, ML Platform",Recursion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+117,117,Business / Data Analyst,Diverse Lynx,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,118,Fullstack Software Engineer II - Capdesk,Carta,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+119,119,Business / Data Analyst,Diverse Lynx,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,120,Binance Accelerator Programme - Software Engineer,Binance,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+121,121,Big Data QE Automation Engineer,Emonics LLC,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+122,122,Data Analyst- RFR 23014,Randstad Canada,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+123,123,Software Engineer,Procom,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1
+124,124,Embedded Software Engineer,Neutron Controls,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+125,125,"Backend Software Engineer, Tim Hortons",Restaurant Brands International,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+126,126,Software / DevOps Engineer,Wiley Edge (formerly mthree),,,,,,,,,,,,,,,,,,
+127,127,Software Engineer - Python/Golang - Kubernetes,Canonical,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,128,Software Engineer - Launchpad,Canonical,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+129,129,.NET Software Engineer,Tyler Technologies,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+130,130,QA Engineer (Internal System),Binance,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+131,131,Full Stack Web Engineer,Harvest Builders,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+132,132,Front End Developer - Data Applications,Manulife,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+133,133,"Developer - Emerging technologies (Big Data, Mobile, Cloud, RPA)",The Ian Martin Group,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+134,134,Full stack Software Engineer,CI Financial,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+135,135,Software Engineer - 2 (contract),Tundra Technical Solutions,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,136,Software Engineer - 3,TekStaff IT Solutions,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+137,137,"Software Engineer, Devops Champion, Tim Hortons, Canada",Restaurant Brands International,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+138,138,"Software Engineer (PHP, MySQL or ReactJS) - Freelance [Remote]",Braintrust,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+139,139,Data Scientist,Aecon Group Inc.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,140,Data Scientist,Canadian Tire Corporation,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+141,141,Cyber Security Engineer - (Zscaler or CrowdStrike) - REMOTE,NTT DATA Services,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+142,142,Data Scientist,Canadian Tire Corporation,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+143,143,SDET (Software Developer Engineer in Test)- API,Priceline,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+144,144,"Software Engineer, II - 39277BR",Synopsys Inc,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,145,"Software Engineer, II - 39277BR",Synopsys Inc,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,146,Data Scientist - Canadian Tire Corporation,Canadian Tire Corporation,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+147,147,"Software Engineer, API, Private Capital Markets",Kroll,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+148,148,"Full Stack Software Engineer II, Forecasting - Remote",Clari,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+149,149,Practice Manager - Data Science & Engineering (Remote role in Canada),Rackspace Technology,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+150,150,"Software Engineer, Graphics",Snap Inc.,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,151,Security Engineer,Thentia,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,152,"Software Engineer, Full Stack, Private Capital Markets",Kroll,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+153,153,Software Development Engineer in Test (SDET),Priceline,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+154,154,Sora Schools - Software Engineer - Flutter - Direct Hire [Remote],Braintrust,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+155,155,Simulation Engineer,AVO - Autonomous Vehicle Organization,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+156,156,Business Intelligence Specialist - Senior,J&M Group,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+157,157,Intermediate Software Engineer (Java & React),Morgan McKinley,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+158,158,Software Engineer - Python - Optimise Ubuntu for Public Clouds,Canonical,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+159,159,Data Scientist,Focal Systems,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,160,Digital Performance Test Engineer,OLG,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+161,161,Technical Lead Software Engineer,FLEETCOR,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+162,162,"Data Visualization Software Engineer (Frontend Developer) - GTA, Canada - Contract",Dice,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+163,163,Software Engineer - Ubuntu Systems Management,Canonical,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+164,164,"Software Engineer, Android",ecobee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,165,CRM Data Analyst (6 months contract),Publicis Canada,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+166,166,Software Engineer - Industrial IoT,Canonical,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+167,167,Site Reliability Engineer,Intrado,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+168,168,Software Engineer - MAAS,Canonical,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+169,169,Java/Software Engineer - Backend,"V-Soft Consulting Group, Inc.",0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+170,170,Software Engineer - Micro/Private/Bare-Metal Cloud,Canonical,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,171,Software Engineer - Application Release Engineering- Remote,"Global Technical Talent, an Inc. 5000 Company",0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1
+172,172,Software Engineer - Java-or-.Net,Morningstar,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+173,173,"Software Engineer, iOS",ecobee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,174,Signaling System Engineer,Hitachi Rail,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+175,175,"ST-Scientist, Data (12 months, Summer 2023, co-op)",Apotex Inc.,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+176,176,Toposware - Rust Software Engineer (US Only) - Direct Hire [Remote],Braintrust,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,177,Pro*C Software Development Engineer - (Remote),NTT DATA Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,178,"Full Stack Software Engineer [PHP, Laravel, VueJS, HTML/CSS] - Latin America Only Freelance [Remote]",Braintrust,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+179,179,Middleware Engineer (Kafka),Morgan McKinley,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+180,180,Online Experience Analyst,The Home Depot Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,181,"Associate Educator, Data Scientist",BrainStation,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,182,Data Annotator,Quantum Management Services Ltd.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,183,"Software Engineer, iOS (Solutions) - Remote",League,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+184,184,Biostatistician,The Hospital for Sick Children,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,185,Signaling System Engineer,Hitachi Rail,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+186,186,Software Engineer II - ANDROID - Freelance [Remote],Braintrust,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+187,187,Seen - iOS Software Engineer (North/South America Only) - Direct Hire [Remote],Braintrust,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,188,Business Analyst / Data Analyst,Diverse Lynx,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,189,Cyber Security Integration Engineer,Altus Group,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,190,Software Runtime Engineer,Tenstorrent Inc.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,191,Capabilities & Insights Analyst - US & Canada Research,McKinsey & Company,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,192,CRM Data Analyst (6 months contract),Publicis Groupe,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+193,193,Developer - Generic - 4,TekStaff IT Solutions,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+194,194,Time To Re Build with Application Engineer Electronic And Embedded Software at Dana TM4 Now Hiring,Dana TM4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+195,195,CRM Data Analyst (6 months contract),Publicis Worldwide,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+196,196,"Ingénieur produit logiciel (Bilingue, à distance) / Product Software Engineer (Bilingual, remote)",Wolters Kluwer,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+197,197,Software Engineer - Ubuntu Server for Public Cloud,Canonical,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+198,198,Scientifique de données- FR,Sobeys,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,199,Scientifique de données- FR,Sobeys,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,200,Software Engineer - Ubuntu Core,Canonical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,201,System Timing Engineer - 38194BR,Synopsys Inc,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,202,Embedded & Desktop Linux Software Engineer - Optimisation,Canonical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+203,203,Golang Embedded System Software Engineer,Canonical,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,204,Remote Access Product Engineer,EY,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,205,Golang Software Engineer - Containers / Virtualisation / API,Canonical,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+206,206,Embedded Software Engineer,Actalent,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,207,Devops Specialist,Apex Systems,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+208,208,"Java System Software Engineer - Runtimes, Tooling and Ecosystem for Linux",Canonical,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+209,209,Software Engineer - Ubuntu Server Certification,Canonical,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+210,210,"Software Engineer, .NET tooling, runtimes and ecosystem",Canonical,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,211,"C, Golang Software Engineer working on dqlite, a RAFT extension for SQLite",Canonical,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,212,Azure Sentinel Cloud Support Specialist,CGI,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+213,213,Dana TM4 is looking for Application Engineer Electronic And Embedded Software in Toronto,Dana TM4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+214,214,Junior fire life safety engineer,Mott MacDonald,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,215,Application Engineer Electronic And Embedded Software at Dana TM4 Just Posted Today,Dana TM4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+216,216,Mechanical Engineer-in-Training (Spring 2023),SNC-Lavalin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,217,Service Desk Engineer,Medcan,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+218,218,Tunnel Ventilation Engineer-in-Training,Arup,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,219,Forecasting Analyst - Canadian Tire Corporation,Canadian Tire Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,220,Analog & Mixed Signal System Modelling Engineer - 37914BR,Synopsys Inc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,221,Electrical Commissioning Engineer,Pkaza - Critical Facilities Recruiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,222,Analog & Mixed Signal System Modelling Engineer - 37914BR,Synopsys Inc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,223,Mechanical Commissioning Engineer,Pkaza - Critical Facilities Recruiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,224,System Test Engineer - Diagnostics,Actalent,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+225,225,Manufacturing Engineer,Array Marketing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,226,Concept SGA is looking for Analyste De Donnees in Toronto,Concept SGA Inc.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,227,Pole Line Engineers (P.Eng.),Cyient,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,228,System Safety and Assurance Engineer,SNC-Lavalin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,229,"Technology Professionals, Operational Support",Canadian Security Intelligence Service (CSIS) | Service canadien du renseignement de sécurité (SCRS),0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+230,230,Time To Re Build with Analyste De Donnees at Concept SGA Now Hiring,Concept SGA Inc.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,231,C++ Graphics and Windowing System Software Engineer - Mir,Canonical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,232,Operational Excellence Engineer - Supply Chain,FGF Brands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,233,Time To Re Build with Geologue EtOu Ingenieur Banque De Donnees Ressources Reserves Gestion Base De Donnees Et RR at Hecla Québec Now Hiring,Hecla Québec,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,234,Analyste De Donnees at Concept SGA Just Posted Today,Concept SGA Inc.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,235,Part-time | Online Data Analyst - French (CA),TELUS International AI Data Solutions,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+236,236,System Application Designer at Dana TM4 Just Posted Today,Dana TM4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,237,Crypto Analyst II,Moneris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,238,Design Verification (UVM) - Canada #20846,Rambus,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,239,British Columbia Statistics Tutor,"Varsity Tutors, a Nerdy Company",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,240,Support Operations Analyst IV #: 22-23024,"TalentBurst, an Inc 5000 company",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,241,Time To Re Build with Analyste De Donnees Enquetes De Sante at Régie Régionale de la Santé et des Services Sociaux du Nunavik Now Hiring,Nunavik Regional Board of Health and Social Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,242,Data/Business Analyst,TekStaff IT Solutions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

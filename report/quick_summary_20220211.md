@@ -5,7 +5,7 @@ The skills in the world of data engineer (DE) could be overwhelming to beginners
 
 This is the work flow for the project.
 
-![img](./diagrams/workflow.png)
+![img](../diagrams/workflow.png)
 
 The main four parts are shown below:
 - `linkedin`: for providing job posting and job descriptions.
@@ -42,11 +42,11 @@ The top tools for both groups are shown in the figures below.
 
 Total (242 data points)             |  DE-only (35 data points)
 :-------------------------:|:-------------------------:
-![](./diagrams/figure_2_total.png)  |  ![](./diagrams/figure_1_DE.png)
+![](../diagrams/figure_2_total.png)  |  ![](../diagrams/figure_1_DE.png)
 
 For the scope of diccusion, we will focus on the DE-specific group now, the top three elements are python, spark, scala with over 50% frequencies.
 
-![](./diagrams/figure_1_DE.png)
+![](../diagrams/figure_1_DE.png)
 
 
 
@@ -55,7 +55,7 @@ For the scope of diccusion, we will focus on the DE-specific group now, the top 
 
 In terms of cloud vendors, it is almost a tie between big three. It is worth mentioning that it is `DE-only` group (35 data points), it might not be that statisticaly significant but it gives you an overview how they shoare the market.
 
-![](./diagrams/figure_3_cloud_vendors.png)
+![](../diagrams/figure_3_cloud_vendors.png)
 
 
 ### Programming language
@@ -63,13 +63,13 @@ In terms of cloud vendors, it is almost a tie between big three. It is worth men
 
 Not gonna rank for programming language but python, scala and java are the top three language for getting employed fast as an entry DE.
 
-![](./diagrams/figure_4_language.png)
+![](../diagrams/figure_4_language.png)
 
 ## Others
 
 Orchestration tools and other hot-hit tools have been given here. databrick, airflow are definitely top of the list and it should give you confidence that you should definitely belive in yourself that you are on the right track and you will ace it.
 
-![](./diagrams/figure_5_others.png)
+![](../diagrams/figure_5_others.png)
 
 
 ## Conclusion and recommendation
